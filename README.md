@@ -6,6 +6,13 @@ In this project, we are looking at bike sharing data from Citibike. We are taske
 
 
 ## Results
+![Checkout Times for Users](CheckoutTimes.png)
+![Checkout Times by Gender](CheckoutTimesGender.png)
+![Trips by Weekday for Each Hour](Trips.png)
+![Trips By Gender](TripsGender.png)
+![User Trips by Gender](UserTrips.png)
+![Top Starting Locations](Starting'.png)
+![Top Ending Locations](Ending.png)
 
 
 ## Summary
